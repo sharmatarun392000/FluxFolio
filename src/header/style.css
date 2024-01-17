@@ -1,0 +1,20 @@
+
+
+
+li
+{
+    margin: 15px;
+    display: inline-block;
+}
+a
+{
+    text-decoration: none;
+}
+
+.menu
+{
+    position: relative;
+    top: 60px;
+    right: 85px;
+    width: 600px;
+}
